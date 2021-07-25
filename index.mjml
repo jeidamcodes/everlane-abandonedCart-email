@@ -1,0 +1,109 @@
+<mjml>
+    <mj-head>
+        <mj-title>Eyeing something?</mj-title>
+        <mj-preview>
+            Eyeing something?&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+        </mj-preview>
+        <mj-attributes>
+            <mj-text font-family= 'Avenir Next, Helvetica Neue, Arial, sans-serif' font-size="16px" font-weight="normal" color="#808284" line-height="26px"/>
+            <mj-image padding="0px" />
+            <mj-section padding="0px" background-color="#ffffff"/>
+            <mj-button display="block" font-family= 'Avenir Next, Helvetica Neue, Arial, sans-serif' font-size="12px" text-transform="uppercase" background-color="#444" color="#fff" text-decoration"none" width="58%" height="50px" margin-top="10px" letter-spacing="2px" font-weight="normal" />
+            <mj-class name="headline" font-family= 'Times New Roman, Georgia, serif' font-size="26px" line-height="36px" color="#4c4c4b" display="block" font-weight="normal" padding-bottom="15px" />
+            <mj-class name="sub-text" color="#808284" padding-top="3px" />
+            <mj-class name="footer-text" font-size="11.5px" line-height="2em" letter-spacing="0.02em" color="#9a9c9f" text-align="center" margin="0" padding="0 16%"  />
+            <mj-divider border-color="lightgrey" width="40%" border-width="1px"/>
+        </mj-attributes>
+    </mj-head>
+
+    <mj-body width="600px" background-color="#ffffff" margin="0" padding="0">
+
+        <!-- logo section -->
+        <mj-section>
+            <mj-column padding="15px 0 15px">
+                <mj-image src="https://i.imgur.com/hUpUAir.png" alt="everlane logo" width="189px" padding="25px 0" href="https://www.everlane.com/"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-divider/>
+
+        <!-- headline -->
+        <mj-section>
+            <mj-column>
+                <mj-text mj-class="headline" align="center" padding-top="25px">
+                    You have great taste.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- subheadline -->
+        <mj-section>
+            <mj-column>
+                <mj-text mj-class="sub-text" align="center">
+                    Then again—we might be biased.<br>See what’s waiting for you in your cart.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        
+        <!-- product image -->
+        <mj-section>
+            <mj-column width="315px">
+                <mj-image src="https://i.imgur.com/wmi9nNB.png" padding-top="20px" href="https://www.everlane.com/products/mens-air-crew-white"/>
+            </mj-column>
+        </mj-section>
+
+        <!-- product info -->
+        <mj-section padding-top="15px">
+            <mj-group width="365px">
+                <mj-column padding="0" width="70%">
+                    <mj-text mj-class="sub-text" align="left" color="#4c4c4b">
+                        The Air Crew Tee
+                    </mj-text>
+                </mj-column>
+                <mj-column padding="0" width="30%">
+                    <mj-text mj-class="sub-text" align="right" color="#4c4c4b">
+                        $24
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+        <!-- product subheadline -->
+        <mj-section padding-top="5px">
+            <mj-column width="61%">
+                <mj-text mj-class="sub-text">
+                    The Air Crew Tee is a cotton slub tee with a subtly textured look and a weightless feel. We made it in lightweight 3.7 oz cotton fabric, using a finer gauge of yarn than our Cotton Crew, woven loosely in an uneven slub texture that lets body heat out and cool breezes in.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- button -->
+        <mj-section>
+            <mj-column>
+                <mj-button padding-top="15px" border-radius="0px" href="https://www.everlane.com/products/mens-air-crew-white">
+                    Take another look
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- footer -->
+        <mj-section>
+            <mj-group>
+                <mj-column padding="30px">
+                <mj-text mj-class="footer-text" align="center">
+                    Everlane SF / LA / NY &#169; 2020 Everlane, Inc. All Rights Reserved. &nbsp;&nbsp;|&nbsp; &nbsp;2170 Folsom St., San Francisco, CA 94110
+                </mj-text>
+                <mj-text mj-class="footer-text" align="center" text-decoration="none">
+                    <span>
+                        <a href="https://www.everlane.com/" style="color: #9a9c9f !important; display: inline; text-decoration: none;">Visit Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.everlane.com/" style="color: #9a9c9f !important; display: inline; text-decoration: none;">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.everlane.com/" style="color: #9a9c9f !important; display: inline; text-decoration: none;">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.everlane.com/" style="color: #9a9c9f !important; display: inline; text-decoration: none;">Unsubscribe</a>
+                    </span>
+                </mj-text>
+            </mj-column>
+            </mj-group>
+        </mj-section>
+
+    </mj-body>
+</mjml>
